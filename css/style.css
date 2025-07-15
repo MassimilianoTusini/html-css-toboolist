@@ -80,3 +80,37 @@
  ul{
     list-style-type: none;
  }
+
+ li{
+    margin: 20px 0;
+ }
+
+ /* Sezione decorazione */
+
+ .task-status{
+    border: 1px solid;
+    border-radius: 50%;
+    font-size: 12px;
+    height: 15px;
+    width: 15px;
+    line-height: 15px;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+ }
+
+ .done{
+    color: green;
+ }
+
+ .undone{
+    color: red;
+ }
+
+ .task-category{
+    background-color: black;
+    color: #fff;
+    font-size: 10px;
+    padding: 6px 10px;
+    border-radius: 10px;
+ }
