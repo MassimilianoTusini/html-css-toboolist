@@ -114,3 +114,27 @@
     padding: 6px 10px;
     border-radius: 10px;
  }
+
+ .blue{
+    background-color: #49a9eb;
+ }
+
+ .purple{
+    background-color: #9a74ea;
+ }
+
+ .green{
+    background-color: #68c0a9;
+ }
+
+ .orange{
+    background-color: #f3a033;
+ }
+
+ .pink{
+    background-color: #d7669e;
+ }
+
+ .limegreen{
+    background-color: #afc822;
+ }
